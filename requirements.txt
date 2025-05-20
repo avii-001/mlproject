@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+matplotlib
+-e .            # auto trigger install of the package
